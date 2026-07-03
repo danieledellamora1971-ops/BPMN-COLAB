@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2880" height="1190" viewBox="0 0 2880 1190" font-family="Segoe UI, Arial, sans-serif">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,3 L0,6 Z" fill="#555"/></marker></defs>
+<rect x="0" y="0" width="2880" height="1190" fill="#ffffff"/>
+<rect x="30" y="30" width="2810" height="1120" fill="none" stroke="#666" stroke-width="2"/>
+<text x="44" y="590.0" transform="rotate(-90 44 590.0)" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">Gestione Ordine Cliente</text>
+<rect x="60" y="30" width="2780" height="160" fill="#fafafa" stroke="#82b366" stroke-width="1"/>
+<text x="76" y="110.0" transform="rotate(-90 76 110.0)" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a4a4a">Cliente</text>
+<rect x="60" y="190" width="2780" height="160" fill="#fafafa" stroke="#82b366" stroke-width="1"/>
+<text x="76" y="270.0" transform="rotate(-90 76 270.0)" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a4a4a">Ufficio Commerciale</text>
+<rect x="60" y="350" width="2780" height="160" fill="#fafafa" stroke="#82b366" stroke-width="1"/>
+<text x="76" y="430.0" transform="rotate(-90 76 430.0)" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a4a4a">Magazzino</text>
+<rect x="60" y="510" width="2780" height="160" fill="#fafafa" stroke="#82b366" stroke-width="1"/>
+<text x="76" y="590.0" transform="rotate(-90 76 590.0)" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a4a4a">Amministrazione</text>
+<rect x="60" y="670" width="2780" height="160" fill="#fafafa" stroke="#82b366" stroke-width="1"/>
+<text x="76" y="750.0" transform="rotate(-90 76 750.0)" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a4a4a">Logistica</text>
+<rect x="60" y="830" width="2780" height="160" fill="#fafafa" stroke="#82b366" stroke-width="1"/>
+<text x="76" y="910.0" transform="rotate(-90 76 910.0)" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a4a4a">Produzione</text>
+<rect x="60" y="990" width="2780" height="160" fill="#fafafa" stroke="#82b366" stroke-width="1"/>
+<text x="76" y="1070.0" transform="rotate(-90 76 1070.0)" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a4a4a">Controllo Qualità</text>
+<line x1="120.0" y1="100.0" x2="340.0" y2="270.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="340.0" y1="270.0" x2="485.0" y2="265.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="485.0" y1="265.0" x2="700.0" y2="430.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="580.5" y="338.5" width="24" height="16" fill="#ffffff" opacity="0.9"/>
+<text x="592.5" y="350.5" text-anchor="middle" font-size="10" fill="#b85450" font-weight="bold">Sì</text>
+<line x1="485.0" y1="265.0" x2="660.0" y2="100.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="560.5" y="173.5" width="24" height="16" fill="#ffffff" opacity="0.9"/>
+<text x="572.5" y="185.5" text-anchor="middle" font-size="10" fill="#b85450" font-weight="bold">No</text>
+<line x1="700.0" y1="430.0" x2="845.0" y2="425.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="845.0" y1="425.0" x2="1780.0" y2="430.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="1300.5" y="418.5" width="24" height="16" fill="#ffffff" opacity="0.9"/>
+<text x="1312.5" y="430.5" text-anchor="middle" font-size="10" fill="#b85450" font-weight="bold">Sì</text>
+<line x1="845.0" y1="425.0" x2="1060.0" y2="910.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="940.5" y="658.5" width="24" height="16" fill="#ffffff" opacity="0.9"/>
+<text x="952.5" y="670.5" text-anchor="middle" font-size="10" fill="#b85450" font-weight="bold">No</text>
+<line x1="1780.0" y1="430.0" x2="1960.0" y2="590.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="1960.0" y1="590.0" x2="2105.0" y2="425.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="1780.0" y1="430.0" x2="2105.0" y2="425.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="2105.0" y1="425.0" x2="2320.0" y2="750.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="1060.0" y1="910.0" x2="1420.0" y2="1070.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="1420.0" y1="1070.0" x2="1565.0" y2="1065.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="1565.0" y1="1065.0" x2="1780.0" y2="500.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="1660.5" y="773.5" width="24" height="16" fill="#ffffff" opacity="0.9"/>
+<text x="1672.5" y="785.5" text-anchor="middle" font-size="10" fill="#b85450" font-weight="bold">No (Rilavorare)</text>
+<line x1="1565.0" y1="1065.0" x2="1780.0" y2="430.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="1660.5" y="738.5" width="24" height="16" fill="#ffffff" opacity="0.9"/>
+<text x="1672.5" y="750.5" text-anchor="middle" font-size="10" fill="#b85450" font-weight="bold">Sì</text>
+<line x1="1060.0" y1="910.0" x2="1205.0" y2="905.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="1205.0" y1="905.0" x2="1420.0" y2="1070.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="1300.5" y="978.5" width="24" height="16" fill="#ffffff" opacity="0.9"/>
+<text x="1312.5" y="990.5" text-anchor="middle" font-size="10" fill="#b85450" font-weight="bold">Non Superato (Rilavorare)</text>
+<line x1="1205.0" y1="905.0" x2="1780.0" y2="430.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="1480.5" y="658.5" width="24" height="16" fill="#ffffff" opacity="0.9"/>
+<text x="1492.5" y="670.5" text-anchor="middle" font-size="10" fill="#b85450" font-weight="bold">Superato</text>
+<line x1="1780.0" y1="500.0" x2="1960.0" y2="590.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="2105.0" y1="425.0" x2="2320.0" y2="750.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="2320.0" y1="750.0" x2="2500.0" y2="750.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="2500.0" y1="750.0" x2="2640.0" y2="100.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<circle cx="120.0" cy="100.0" r="20.0" fill="#d5e8d4" stroke="#82b366" stroke-width="1.5"/>
+<text x="120.0" y="132.0" text-anchor="middle" font-size="9" fill="#333">Invio</text>
+<text x="120.0" y="143.0" text-anchor="middle" font-size="9" fill="#333">Ordine</text>
+<text x="120.0" y="154.0" text-anchor="middle" font-size="9" fill="#333">Cliente</text>
+<circle cx="660.0" cy="100.0" r="20.0" fill="#f8cecc" stroke="#b85450" stroke-width="3"/>
+<text x="660.0" y="132.0" text-anchor="middle" font-size="9" fill="#333">Ordine</text>
+<text x="660.0" y="143.0" text-anchor="middle" font-size="9" fill="#333">Rifiutato</text>
+<text x="660.0" y="154.0" text-anchor="middle" font-size="9" fill="#333">(Notifica</text>
+<text x="660.0" y="165.0" text-anchor="middle" font-size="9" fill="#333">Cliente)</text>
+<circle cx="2640.0" cy="100.0" r="20.0" fill="#f8cecc" stroke="#b85450" stroke-width="3"/>
+<text x="2640.0" y="132.0" text-anchor="middle" font-size="9" fill="#333">Processo</text>
+<text x="2640.0" y="143.0" text-anchor="middle" font-size="9" fill="#333">Termina</text>
+<text x="2640.0" y="154.0" text-anchor="middle" font-size="9" fill="#333">(Conferma</text>
+<text x="2640.0" y="165.0" text-anchor="middle" font-size="9" fill="#333">Ricezione</text>
+<text x="2640.0" y="176.0" text-anchor="middle" font-size="9" fill="#333">Cliente)</text>
+<rect x="280" y="240" width="120" height="60" rx="8" ry="8" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="340.0" y="256.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Registrare</text>
+<text x="340.0" y="268.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Ordine e</text>
+<text x="340.0" y="280.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Verificare</text>
+<text x="340.0" y="292.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Credito</text>
+<polygon points="485.0,240 510,265.0 485.0,290 460,265.0" fill="#fff2cc" stroke="#d6b656" stroke-width="1.5"/>
+<text x="485.0" y="270.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#d6b656">X</text>
+<text x="485.0" y="302" text-anchor="middle" font-size="9" fill="#333">Credito</text>
+<text x="485.0" y="313" text-anchor="middle" font-size="9" fill="#333">Approvato?</text>
+<rect x="640" y="400" width="120" height="60" rx="8" ry="8" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="700.0" y="422.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Verificare</text>
+<text x="700.0" y="434.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Disponibilità</text>
+<text x="700.0" y="446.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Prodotti</text>
+<polygon points="845.0,400 870,425.0 845.0,450 820,425.0" fill="#fff2cc" stroke="#d6b656" stroke-width="1.5"/>
+<text x="845.0" y="430.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#d6b656">X</text>
+<text x="845.0" y="462" text-anchor="middle" font-size="9" fill="#333">Prodotti</text>
+<text x="845.0" y="473" text-anchor="middle" font-size="9" fill="#333">Disponibili?</text>
+<rect x="1720" y="400" width="120" height="60" rx="8" ry="8" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="1780.0" y="428.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Preparare Merce</text>
+<text x="1780.0" y="440.0" text-anchor="middle" font-size="10" fill="#1a1a1a">(Successo)</text>
+<polygon points="2105.0,400 2130,425.0 2105.0,450 2080,425.0" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="2105.0" y="430.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#6c8ebf">+</text>
+<text x="2105.0" y="462" text-anchor="middle" font-size="9" fill="#333">Attività</text>
+<text x="2105.0" y="473" text-anchor="middle" font-size="9" fill="#333">Parallele</text>
+<text x="2105.0" y="484" text-anchor="middle" font-size="9" fill="#333">Concluse?</text>
+<rect x="1720" y="470" width="120" height="60" rx="8" ry="8" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="1780.0" y="498.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Preparare Merce</text>
+<text x="1780.0" y="510.0" text-anchor="middle" font-size="10" fill="#1a1a1a">(Fallimento)</text>
+<rect x="1900" y="560" width="120" height="60" rx="8" ry="8" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="1960.0" y="594.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Emettere Fattura</text>
+<rect x="2260" y="720" width="120" height="60" rx="8" ry="8" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="2320.0" y="748.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Organizzare</text>
+<text x="2320.0" y="760.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Spedizione</text>
+<rect x="2440" y="720" width="120" height="60" rx="8" ry="8" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="2500.0" y="748.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Tracciare</text>
+<text x="2500.0" y="760.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Consegna</text>
+<rect x="1000" y="880" width="120" height="60" rx="8" ry="8" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="1060.0" y="902.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Creare Ordine di</text>
+<text x="1060.0" y="914.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Lavoro e</text>
+<text x="1060.0" y="926.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Fabbricare Pezzi</text>
+<polygon points="1205.0,880 1230,905.0 1205.0,930 1180,905.0" fill="#fff2cc" stroke="#d6b656" stroke-width="1.5"/>
+<text x="1205.0" y="910.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#d6b656">X</text>
+<text x="1205.0" y="942" text-anchor="middle" font-size="9" fill="#333">Rilavorazione</text>
+<text x="1205.0" y="953" text-anchor="middle" font-size="9" fill="#333">Necessaria?</text>
+<polygon points="1565.0,1040 1590,1065.0 1565.0,1090 1540,1065.0" fill="#fff2cc" stroke="#d6b656" stroke-width="1.5"/>
+<text x="1565.0" y="1070.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#d6b656">X</text>
+<text x="1565.0" y="1102" text-anchor="middle" font-size="9" fill="#333">Controllo</text>
+<text x="1565.0" y="1113" text-anchor="middle" font-size="9" fill="#333">Qualità</text>
+<text x="1565.0" y="1124" text-anchor="middle" font-size="9" fill="#333">Superato?</text>
+<rect x="1360" y="1040" width="120" height="60" rx="8" ry="8" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="1420.0" y="1068.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Ispezionare</text>
+<text x="1420.0" y="1080.0" text-anchor="middle" font-size="10" fill="#1a1a1a">Pezzi Prodotti</text>
+</svg>
